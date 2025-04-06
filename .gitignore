@@ -45,3 +45,4 @@ go.work.sum
 .venv
 docker/env
 **/r2r-full.env
+docker/env/r2r-full.env
