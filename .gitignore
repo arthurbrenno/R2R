@@ -43,6 +43,3 @@ go.work.sum
 .ruff_cache/
 *.egg-info
 .venv
-docker/env
-**/r2r-full.env
-docker/env/r2r-full.env
